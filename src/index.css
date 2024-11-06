@@ -14,3 +14,15 @@
    text-decoration: line-through
    ;
 }
+.bottamcard1{
+  position: relative;
+  top: 70px;
+}
+.discunt {
+  position: relative;
+  top: 55px;
+}
+.stars{
+  position: relative;
+  top: -4px;
+}

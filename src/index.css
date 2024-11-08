@@ -16,13 +16,25 @@
 }
 .bottamcard1{
   position: relative;
-  top: 50px;
+  top: 18px;
+  left: 8px;
 }
 .discunt {
   position: relative;
-  top: 35px;
+  top: 2px;
+  left: 8px;
 }
 .stars{
   position: relative;
-  top: -30px;
+  top: -65px;
+  left: 8px;
+}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.basiccolor{
+ background: #DB4444;
+  ;
 }

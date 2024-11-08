@@ -1,14 +1,22 @@
+
+import Banner from "./components/banner";
+import Navbar from "./components/Navbar";
 import ProductCard from "./components/productCard";
+import Propartycont from "./components/Propartycont";
+
 
 function App() {
+ 
   return (
     <>
-    <div className="flex  justify-evenly">
+    
+      
+      <Banner/>
+      <Navbar/>
+      <Propartycont/>
       <ProductCard />
-      <ProductCard />
-      <ProductCard />
-      <ProductCard />
-      </div>
+    
+      
     </>
   );
 }

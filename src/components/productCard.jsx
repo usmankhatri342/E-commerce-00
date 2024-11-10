@@ -11,7 +11,7 @@ export default function productCard() {
     return (
 
         
-        <div className="border-2 border-slate-100  w-64 h-[350px] relative top-4  " >
+        <div className="border-2 border-slate-100  w-64 h-[350px] relative bottom-72 left-32  " >
 
 <div className="border-1  bg-slate-100  w-[252px] h-60   ">
         <div className="discount relative top-2 left-2  bg-red-500 w-14 h-6 rounded flex items-center text-xs justify-center text-white">
